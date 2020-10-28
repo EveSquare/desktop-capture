@@ -10,7 +10,7 @@ from matplotlib import pyplot as plt
 # full screen
 ImageGrab.grab().save("desk_capture.png")
 
-# 先ほど取得した各種キーを代入する
+# 各種キーを代入する
 CK="6eppxEHZgA6oBgLmwdMUnjOq8"
 CS="dbpeIZwcFDcip6TP5HRp8Z9tf8A8mWXVLAogD7S9Gx3Jd5mMWf"
 AT="1084114248874156032-CTx91Gp4yz21oTsDs3vhLzyrYr3eyS"
