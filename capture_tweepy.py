@@ -21,7 +21,7 @@ auth = tweepy.OAuthHandler(CK, CS)
 auth.set_access_token(AT, AS)
 api = tweepy.API(auth)
 
-print( "KOKONO >> ", end="")
+print( "TextHere >> ", end="")
 str = input()
 # グローーバル変数
 drawing = False
