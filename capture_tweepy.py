@@ -11,10 +11,10 @@ from matplotlib import pyplot as plt
 ImageGrab.grab().save("desk_capture.png")
 
 # 各種キーを代入する
-CK="6eppxEHZgA6oBgLmwdMUnjOq8"
-CS="dbpeIZwcFDcip6TP5HRp8Z9tf8A8mWXVLAogD7S9Gx3Jd5mMWf"
-AT="1084114248874156032-CTx91Gp4yz21oTsDs3vhLzyrYr3eyS"
-AS="VxIqOf9ityUzfUFaGkhfCzh1J7e9rdmqJvyfrhqljtMPd"
+CK="XXXXXXXXXXXXXXXXXXXX"
+CS="XXXXXXXXXXXXXXXXXXXXX"
+AT="XXXXXXXXXXXXXXXXXXXXXXXX"
+AS="XXXXXXXXXXXXXXXXXXXXXXX"
 
 # Twitterオブジェクトの生成
 auth = tweepy.OAuthHandler(CK, CS)
